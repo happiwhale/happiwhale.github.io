@@ -89,7 +89,7 @@ h1#tagline{
   }
   @media screen and (max-width: 768px) {
     h1#tagline{
-      font-size: 29px;
+      font-size: 36px;
     }
   }
 
